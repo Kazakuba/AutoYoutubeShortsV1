@@ -10,7 +10,7 @@ While current workflow (V2) uses generative AI for the visuals, **V1 solved the 
 
 ## 🚀 The Evolution
 
-| Feature | Auto Youtube Shorts V1 (This Repo) | AutoShorts v2 (New Workflow) |
+| Feature | Auto Youtube Shorts V1 (This Repo) | Auto Youtube Shorts v2 (New Workflow) |
 | :--- | :--- | :--- |
 | **Video Source** | 🎞️ Pexels API (Stock Footage) | ✨ Generative AI (WAN) |
 | **Editor** | 🎬 FFmpeg/MoviePy (Code-based stitching) | 🤖 AI Director (Prompt-driven editing) |
